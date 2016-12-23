@@ -16,7 +16,7 @@ This is a theme for MarkEditor, including two color palettes: light and dark.
 
 ## Usage
 
-Just simply copy css code in these two files:[light theme](https://raw.githubusercontent.com/greenzorro/MarkEditor-Theme/master/theme-light.txt), [dark theme](https://raw.githubusercontent.com/greenzorro/MarkEditor-Theme/master/theme-dark.txt)...
+Just simply copy css code in these two files: [light theme](https://raw.githubusercontent.com/greenzorro/MarkEditor-Theme/master/theme-light.txt), [dark theme](https://raw.githubusercontent.com/greenzorro/MarkEditor-Theme/master/theme-dark.txt)...
 
 and paste here in preference settings of MarkEditor:
 
