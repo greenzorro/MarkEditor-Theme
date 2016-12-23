@@ -18,7 +18,7 @@ Theme for MarkEditor.
 
 ## Usage
 
-Just simply copy css code in these two files:<a href="https://raw.githubusercontent.com/greenzorro/MarkEditor-Theme/master/theme-light.txt" target="_blank">[light theme]</a>, <a href="https://raw.githubusercontent.com/greenzorro/MarkEditor-Theme/master/theme-dark.txt" target="_blank">[dark theme]</a>...
+Just simply copy css code in these two files:[light theme](https://raw.githubusercontent.com/greenzorro/MarkEditor-Theme/master/theme-light.txt), [dark theme](https://raw.githubusercontent.com/greenzorro/MarkEditor-Theme/master/theme-dark.txt)...
 
 and paste here in preference settings of MarkEditor:
 
