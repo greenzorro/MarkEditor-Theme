@@ -6,15 +6,13 @@ This is a theme for MarkEditor, including two color palettes: light and dark.
 
 ## Theme
 
-Theme for MarkEditor.
+*light theme*
 
 ![](https://raw.githubusercontent.com/greenzorro/MarkEditor-Theme/master/screenshots/light.png)
 
-*↑ light theme*
+*dark theme*
 
 ![](https://raw.githubusercontent.com/greenzorro/MarkEditor-Theme/master/screenshots/dark.png)
-
-*↑ dark theme*
 
 ## Usage
 
