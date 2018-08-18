@@ -1,4 +1,5 @@
-This is a theme for MarkEditor1, including two color palettes: light and dark. Since MarkEditor2 is out there, the theme won't be updated anymore.
+This is a theme for MarkEditor1, including two color palettes: light and dark.
+Since MarkEditor2 is out there, the theme won't be updated anymore.
 
 ## MarkEditor
 
